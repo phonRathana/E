@@ -2,9 +2,9 @@ name: Android CI
 
 on:
   push:
-    branches: [ "GitHubrathana" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "GitHubrathana" ]
+    branches: [ "main" ]
 
 jobs:
   build:
